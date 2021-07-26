@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @amyg-cc
+- 👔 I work as a Portfolio Manager at CodeClan
 - 👀 I’m interested in technology, beer, dogs and occasional exercise 
 - 🌱 I’m currently learning web development
 - 📫 How to reach me: 
